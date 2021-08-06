@@ -2,7 +2,7 @@
 
 ## General Info
 
-This project is part of the 2021 CEM REU at Moravian College where we implemented algorithms on the topic of Induced H-Saturated Graphs.
+This project is part of the 2021 CEM REU at Moravian University where we implemented algorithms on the topic of Induced H-Saturated Graphs.
 
 ## Usage of graph_maker
 Input: snipet from the graph markdown generator in "https://csacademy.com/app/graph_editor/"
@@ -29,4 +29,5 @@ find_indsat_graphs(n, H, c = True, definition = 1, unique = False, incl_complete
 * Work in progress
 
 ## Acknowledgments
-
+This work was done with Evan Sabini, Jared Glassband, Kevin Hua, and Mason Nakamura under the advisement of Dr. Kathleen Ryan and Dr. Bryan Kronenthal.
+Funded under National Science Foundation grant number DMS-1852378
