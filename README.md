@@ -24,10 +24,9 @@ is_indsat(G, H, definition = 1, unique = False, incl_completeGraph = False) #out
 find_indsat_graphs(n, H, c = True, definition = 1, unique = False, incl_completeGraph = False, file = None) #Finds induced H-saturated graphs of order n under given parameters
 ```
 
-
-## Notes
-* Work in progress
-
 ## Acknowledgments
 This work was done with Evan Sabini, Jared Glassband, Kevin Hua, and Mason Nakamura under the advisement of Dr. Kathleen Ryan and Dr. Bryan Kronenthal.
 Funded under National Science Foundation grant number DMS-1852378
+
+##Contact Info
+Mason Nakamura - Mason.Nakamura1@marist.edu
