@@ -28,5 +28,5 @@ find_indsat_graphs(n, H, c = True, definition = 1, unique = False, incl_complete
 This work was done with Evan Sabini, Jared Glassband, Kevin Hua, and Mason Nakamura under the advisement of Dr. Kathleen Ryan and Dr. Bryan Kronenthal.
 Funded under National Science Foundation grant number DMS-1852378
 
-##Contact Info
+## Contact Info
 Mason Nakamura - Mason.Nakamura1@marist.edu
