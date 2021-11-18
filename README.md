@@ -4,7 +4,7 @@
 
 This project is part of the 2021 CEM REU at Moravian University where we implemented algorithms on the topic of Induced H-Saturated Graphs.
 
-## Usage of graph_maker
+## Usage of Graph_Text_Processor
 Input: snipet from the graph markdown generator in "https://csacademy.com/app/graph_editor/"
 
 Output: syntax for graph creation using Graph object in Sage
